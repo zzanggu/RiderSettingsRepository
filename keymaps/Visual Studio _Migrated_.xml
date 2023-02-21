@@ -1,0 +1,76 @@
+<keymap version="1" name="Visual Studio (Migrated)" parent="Visual Studio 2022">
+  <action id="Arrangement.Rule.Edit" />
+  <action id="BookmarksView.Rename" />
+  <action id="CloseAllEditorsButActive">
+    <keyboard-shortcut first-keystroke="shift alt x" />
+  </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl f4" />
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="Console.TableResult.EditValue">
+    <keyboard-shortcut first-keystroke="enter" />
+    <keyboard-shortcut first-keystroke="alt enter" />
+  </action>
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="shift alt equals" />
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+    <keyboard-shortcut first-keystroke="ctrl w" />
+    <keyboard-shortcut first-keystroke="f1" />
+  </action>
+  <action id="EditorUnSelectWord">
+    <keyboard-shortcut first-keystroke="shift alt minus" />
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+  </action>
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="alt back_slash" />
+    <keyboard-shortcut first-keystroke="alt m" />
+  </action>
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="shift f12" />
+    <keyboard-shortcut first-keystroke="shift alt r" />
+  </action>
+  <action id="GotoNextBookmark">
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="n" />
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl n" />
+    <keyboard-shortcut first-keystroke="f2" />
+  </action>
+  <action id="MoveTabRight">
+    <keyboard-shortcut first-keystroke="shift ctrl w" />
+  </action>
+  <action id="QuickImplementations">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="r" />
+    <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="ctrl r" />
+  </action>
+  <action id="RevealIn">
+    <keyboard-shortcut first-keystroke="shift ctrl o" />
+  </action>
+  <action id="RiderOpenSolution" />
+  <action id="ShowNavBar">
+    <keyboard-shortcut first-keystroke="ctrl f2" />
+    <keyboard-shortcut first-keystroke="ctrl m" />
+  </action>
+  <action id="SmartUnSelect">
+    <keyboard-shortcut first-keystroke="shift alt minus" />
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+  </action>
+  <action id="Table-startEditing" />
+  <action id="TableResult.ShrinkSelection">
+    <keyboard-shortcut first-keystroke="shift alt minus" />
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+  </action>
+  <action id="ToggleBookmark">
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="k" />
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl k" />
+    <keyboard-shortcut first-keystroke="ctrl f2" />
+  </action>
+  <action id="Tree-startEditing" />
+  <action id="Vcs.ToggleAmendCommitMode" />
+  <action id="XDebugger.EditWatch" />
+  <action id="XDebugger.SetValue" />
+  <action id="context.clear" />
+</keymap>

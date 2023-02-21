@@ -1,0 +1,118 @@
+<scheme name="HG Dark" version="142" parent_scheme="Visual Assist Dark">
+  <option name="FONT_SCALE" value="1.0" />
+  <metaInfo>
+    <property name="created">2023-02-21T00:48:05</property>
+    <property name="description">Color test</property>
+    <property name="ide">Rider</property>
+    <property name="ideVersion">2022.3.2.0.0</property>
+    <property name="modified">2023-02-21T01:39:47</property>
+    <property name="originalScheme">_@user_Visual Assist Dark</property>
+    <property name="vendorMail" />
+    <property name="vendorName">HG Dark</property>
+    <property name="vendorUrl">http://</property>
+    <property name="version">0.1</property>
+  </metaInfo>
+  <option name="LINE_SPACING" value="1.2" />
+  <option name="EDITOR_FONT_SIZE" value="16" />
+  <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
+  <attributes>
+    <option name="DEFAULT_CLASS_NAME">
+      <value>
+        <option name="FOREGROUND" value="dcdcdc" />
+      </value>
+    </option>
+    <option name="DEFAULT_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="dcdcdc" />
+        <option name="BACKGROUND" value="1e1e1e" />
+      </value>
+    </option>
+    <option name="DEFAULT_INSTANCE_FIELD">
+      <value>
+        <option name="FOREGROUND" value="b0b0b0" />
+      </value>
+    </option>
+    <option name="DEFAULT_NUMBER">
+      <value>
+        <option name="FOREGROUND" value="ef4141" />
+      </value>
+    </option>
+    <option name="DEFAULT_STATIC_FIELD">
+      <value>
+        <option name="FOREGROUND" value="b0b0b0" />
+      </value>
+    </option>
+    <option name="DEFAULT_STRING">
+      <value>
+        <option name="FOREGROUND" value="ef4141" />
+      </value>
+    </option>
+    <option name="ReSharper.CPP_CLASS_FIELD_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="96c27b" />
+      </value>
+    </option>
+    <option name="ReSharper.CPP_CLASS_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="849aff" />
+      </value>
+    </option>
+    <option name="ReSharper.CPP_ENUM_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="849aff" />
+      </value>
+    </option>
+    <option name="ReSharper.CPP_GLOBAL_FUNCTION_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="ffb072" />
+      </value>
+    </option>
+    <option name="ReSharper.CPP_GLOBAL_VARIABLE_IDENTIFIER" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="ReSharper.CPP_OVERLOADED_OPERATOR_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="e8e8e8" />
+      </value>
+    </option>
+    <option name="ReSharper.CPP_PREPROCESSOR_MACRO_PARAMETER_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="c27a7a" />
+        <option name="BACKGROUND" value="1e1e1e" />
+      </value>
+    </option>
+    <option name="ReSharper.CPP_STATIC_FIELD_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="b2f88b" />
+      </value>
+    </option>
+    <option name="ReSharper.CPP_STATIC_MEMBER_FUNCTION_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="ff8000" />
+      </value>
+    </option>
+    <option name="ReSharper.CPP_STRUCT_FIELD_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="c9c9c9" />
+      </value>
+    </option>
+    <option name="ReSharper.CPP_STRUCT_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="849aff" />
+      </value>
+    </option>
+    <option name="ReSharper.CPP_TEMPLATE_PARAMETER_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="849aff" />
+      </value>
+    </option>
+    <option name="ReSharper.CPP_TYPEDEF_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="849aff" />
+      </value>
+    </option>
+    <option name="ReSharper.CPP_UNION_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="569cd6" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
