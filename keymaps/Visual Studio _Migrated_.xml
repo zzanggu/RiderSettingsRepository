@@ -3,6 +3,7 @@
   <action id="BookmarksView.Rename" />
   <action id="CloseAllEditorsButActive">
     <keyboard-shortcut first-keystroke="shift alt x" />
+    <keyboard-shortcut first-keystroke="shift ctrl x" />
   </action>
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl f4" />
@@ -31,6 +32,7 @@
     <keyboard-shortcut first-keystroke="shift f12" />
     <keyboard-shortcut first-keystroke="shift alt r" />
   </action>
+  <action id="Github.PullRequest.Diff.Comment.Create" />
   <action id="GotoDeclaration">
     <keyboard-shortcut first-keystroke="f12" />
     <mouse-shortcut keystroke="control button1" />
@@ -73,6 +75,7 @@
     <keyboard-shortcut first-keystroke="shift alt minus" />
     <keyboard-shortcut first-keystroke="ctrl alt left" />
   </action>
+  <action id="Space.Review.CreateDiffComment" />
   <action id="Table-startEditing" />
   <action id="TableResult.ShrinkSelection">
     <keyboard-shortcut first-keystroke="shift alt minus" />
