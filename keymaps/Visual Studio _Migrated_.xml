@@ -1,5 +1,11 @@
 <keymap version="1" name="Visual Studio (Migrated)" parent="Visual Studio 2022">
   <action id="Arrangement.Rule.Edit" />
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="ctrl minus" />
+    <keyboard-shortcut first-keystroke="ctrl subtract" />
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="alt left" />
+  </action>
   <action id="BookmarksView.Rename" />
   <action id="CloseAllEditorsButActive">
     <keyboard-shortcut first-keystroke="shift alt x" />
@@ -8,6 +14,10 @@
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl f4" />
     <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="ctrl space" />
+    <keyboard-shortcut first-keystroke="ctrl j" />
   </action>
   <action id="Console.TableResult.EditValue">
     <keyboard-shortcut first-keystroke="enter" />
@@ -32,6 +42,12 @@
     <keyboard-shortcut first-keystroke="shift f12" />
     <keyboard-shortcut first-keystroke="shift alt r" />
   </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="shift ctrl minus" />
+    <keyboard-shortcut first-keystroke="shift ctrl subtract" />
+    <mouse-shortcut keystroke="button5" />
+    <keyboard-shortcut first-keystroke="alt right" />
+  </action>
   <action id="Github.PullRequest.Diff.Comment.Create" />
   <action id="GotoDeclaration">
     <keyboard-shortcut first-keystroke="f12" />
@@ -47,6 +63,10 @@
   <action id="IncrementalSearch" />
   <action id="MoveTabRight">
     <keyboard-shortcut first-keystroke="shift ctrl w" />
+  </action>
+  <action id="OpenFile" />
+  <action id="OverrideMethods">
+    <keyboard-shortcut first-keystroke="ctrl o" />
   </action>
   <action id="QuickImplementations">
     <keyboard-shortcut first-keystroke="alt f12" />
