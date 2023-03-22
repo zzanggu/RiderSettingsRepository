@@ -28,6 +28,9 @@
     <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl u" />
     <keyboard-shortcut first-keystroke="ctrl slash" />
   </action>
+  <action id="Compare.SameVersion">
+    <keyboard-shortcut first-keystroke="shift ctrl d" />
+  </action>
   <action id="Console.TableResult.EditValue">
     <keyboard-shortcut first-keystroke="enter" />
     <keyboard-shortcut first-keystroke="alt enter" />
@@ -56,6 +59,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl subtract" />
     <mouse-shortcut keystroke="button5" />
     <keyboard-shortcut first-keystroke="alt right" />
+  </action>
+  <action id="GitShowDiffWithBranchAction">
+    <keyboard-shortcut first-keystroke="shift ctrl d" />
   </action>
   <action id="Github.PullRequest.Diff.Comment.Create" />
   <action id="GotoDeclaration">
